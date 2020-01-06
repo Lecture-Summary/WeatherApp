@@ -93,3 +93,9 @@ felxDirection을 row로 바꿔줄 수 있다.
     paddingVertical: 100
 
 일반적인 css는 가지고 있지않고 react native만 가지는 css 속성
+
+## geolocation API
+
+https://facebook.github.io/react-native/docs/geolocation#__docusaurus
+
+https://docs.expo.io/versions/v36.0.0/sdk/location/
