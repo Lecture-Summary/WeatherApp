@@ -64,3 +64,7 @@ npm start를 했을때 node version이 높아 발생하는 에러가 발생 할 
     expo login
 
 아이폰에 테스트를 위해 expo login
+
+## live reload
+
+프로젝트를 저장하면 자동으로 refresh되고 변경된 걸 확인할 수 있다.
