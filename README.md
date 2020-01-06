@@ -99,3 +99,9 @@ felxDirection을 row로 바꿔줄 수 있다.
 https://facebook.github.io/react-native/docs/geolocation#__docusaurus
 
 https://docs.expo.io/versions/v36.0.0/sdk/location/
+
+## weather API
+
+https://home.openweathermap.org/api_keys
+
+https://openweathermap.org/current
