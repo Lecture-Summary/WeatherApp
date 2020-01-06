@@ -68,3 +68,23 @@ npm start를 했을때 node version이 높아 발생하는 에러가 발생 할 
 ## live reload
 
 프로젝트를 저장하면 자동으로 refresh되고 변경된 걸 확인할 수 있다.
+
+## <View>
+
+View는 div 같은 것
+
+## <Text>
+
+Text는 모두 Text태그 안에, span 같은 것
+
+## react native style
+
+리액트 네이티브는 부모의 스타일 속성을 상속 받지 못해서 각 태그마다 스타일을 지정해줘야한다.
+
+웹사이트에서 모든 flex 박스의 디폴트는 row
+
+flex direction이 column이다. 모바일 폰에서는 대게 모든게 서로 아래에 있어서
+
+    flexDirection: "row"
+
+felxDirection을 row로 바꿔줄 수 있다.
