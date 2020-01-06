@@ -88,3 +88,8 @@ flex direction이 column이다. 모바일 폰에서는 대게 모든게 서로 �
     flexDirection: "row"
 
 felxDirection을 row로 바꿔줄 수 있다.
+
+    paddingHorizontal: 30,
+    paddingVertical: 100
+
+일반적인 css는 가지고 있지않고 react native만 가지는 css 속성
