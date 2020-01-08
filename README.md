@@ -156,3 +156,9 @@ https://docs.expo.io/versions/v33.0.0/sdk/linear-gradient/
 https://uigradients.com/#PlayingwithReds
 
 그라데이션 도움 사이트
+
+## ES6
+
+    <View style={{...styles.halfContainer, ...styles.textContainer}}>
+
+Style을 두개 넣을 때
