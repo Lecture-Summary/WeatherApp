@@ -122,6 +122,37 @@ https://expo.github.io/vector-icons/
 
 MaterialCommunityIcons 들을 씀
 
-    <MaterialCommunityIcons size={96} name="weather-lightning-rainy" />
+    <MaterialCommunityIcons
+        size={96}
+        name="weather-lightning-rainy"
+        color="white"
+    />
 
 사용법
+
+## linear-gradien
+
+https://docs.expo.io/versions/v33.0.0/sdk/linear-gradient/
+
+    expo install expo-linear-gradient
+
+    <LinearGradient
+        colors={["#4c669f", "#3b5998", "#192f6a"]}
+        style={styles.container}
+    >
+
+## StatusBar
+
+    import { View, Text, StyleSheet, StatusBar } from "react-native";
+
+    <StatusBar barStyle="light-content" />
+
+상태바 수정가능
+
+코드를 View태그 안에 꼭 넣어야함.
+
+## uigradients
+
+https://uigradients.com/#PlayingwithReds
+
+그라데이션 도움 사이트
