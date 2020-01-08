@@ -22,6 +22,10 @@ expo의 가장 큰 장점은 휴대폰에서 앱을 테스트 할 수 있다.
 
 expo는 수동적인 작업들이 덜 필요하고, 시작하는데 훨씬 더 빠른 방식.
 
+## Android Studio 연결
+
+https://blog.wky.kr/25
+
 ## Creating the project
 
     expo init "projectname"
