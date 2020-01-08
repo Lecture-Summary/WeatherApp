@@ -105,3 +105,19 @@ https://docs.expo.io/versions/v36.0.0/sdk/location/
 https://home.openweathermap.org/api_keys
 
 https://openweathermap.org/current
+
+## expo icon
+
+    import { Ionicons } from '@expo/vector-icons';
+
+https://expo.github.io/vector-icons/
+
+아이콘 모아둔 홈페이지
+
+    import { MaterialCommunityIcons } from "@expo/vector-icons";
+
+MaterialCommunityIcons 들을 씀
+
+    <MaterialCommunityIcons size={96} name="weather-lightning-rainy" />
+
+사용법
